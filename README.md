@@ -1,1 +1,1 @@
-# ds-mod3.6
+# David SCTP2 Module 3.6
